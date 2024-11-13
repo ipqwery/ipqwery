@@ -1,9 +1,9 @@
 # ReadMe.md
-Official Account For https://IPQuery.io
+Official Account For https://ipquery.io
 
 ## Stats
-```
- - 8.7 Billion requests processed.
- - Free Geolocation/IP API
- - Proxy/VPN Detection
-```
+
+- [X] 📈 8.7 Billion requests processed.
+- [X] 🌎 Free Geolocation/IP API
+- [X] 🖥️ Proxy/VPN Detection
+- [X] 🕒 ~8ms Response Time
