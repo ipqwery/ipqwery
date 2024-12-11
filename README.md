@@ -9,3 +9,4 @@ Official Account For https://ipquery.io
 
 ## Built Something Cool With IPQuery?
 Shoot us an email at contact@ipquery.io to get featured.
+(We also feature blogposts)
