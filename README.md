@@ -13,7 +13,6 @@ We are looking for IPQuery libraries for:
 - [ ] **Ruby**
 - [ ] **Swift**
 - [ ] **Kotlin**
-- [ ] **C#**
 - [ ] **PHP**
 - [ ] **Lua**
 - [ ] **Perl**
