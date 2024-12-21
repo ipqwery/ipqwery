@@ -17,7 +17,6 @@ We are looking for IPQuery libraries for:
 - [ ] **Perl**
 - [ ] **Haskell**
 - [ ] **R**
-- [ ] **Scala**
 - [ ] **Elixir**
 - [ ] **Dart**
 
