@@ -20,6 +20,10 @@ We are looking for IPQuery libraries for:
 - [ ] **Elixir**
 - [ ] **Dart**
 
+We are looking for someone whos good with nextjs/mdx/tailwind for a site redesign.
+
 ## Built Something Cool With IPQuery?
 Shoot us an email at contact@ipquery.io to get featured.
-(We also feature blogposts)
+
+## Found a Bug
+Open an issue [here](https://github.com/ipqwery/Bugs)
