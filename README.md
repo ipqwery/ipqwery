@@ -10,7 +10,6 @@ Official Account For https://ipquery.io
 ## Want to Contribute/Help?
 We are looking for IPQuery libraries for:
 - [ ] **Ruby**
-- [ ] **Swift**
 - [ ] **Kotlin**
 - [ ] **PHP**
 - [ ] **Lua**
