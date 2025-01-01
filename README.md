@@ -9,7 +9,6 @@ Official Account For https://ipquery.io
 
 ## Want to Contribute/Help?
 We are looking for IPQuery libraries for:
-- [ ] **Lua**
 - [ ] **Perl**
 - [ ] **Haskell**
 - [ ] **R**
