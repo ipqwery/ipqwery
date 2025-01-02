@@ -11,7 +11,6 @@ Official Account For https://ipquery.io
 We are looking for IPQuery libraries for:
 - [ ] **Perl**
 - [ ] **Haskell**
-- [ ] **R**
 - [ ] **Elixir**
 - [ ] **Dart**
 
