@@ -1,6 +1,17 @@
 # ReadMe.md
 Official Account For [IPQuery](https://ipquery.io)
 
+🌍 **Translations**:  
+[🇺🇸 English](https://github.com/ipqwery/ipqwery/blob/main/README.md)
+[🇪🇸 Español](https://github.com/ipqwery/ipqwery/blob/main/README_ES.md)
+[🇨🇳 中文](https://github.com/ipqwery/ipqwery/blob/main/README_ZH.md)
+[🇫🇷 Français](https://github.com/ipqwery/ipqwery/blob/main/README_FR.md)
+[🇩🇪 Deutsch](https://github.com/ipqwery/ipqwery/blob/main/README_DE.md)
+[🇷🇺 Русский](https://github.com/ipqwery/ipqwery/blob/main/README_RU.md)
+[🇮🇳 हिंदी](https://github.com/ipqwery/ipqwery/blob/main/README_HI.md)  
+
+---
+
 ## Stats
 - [X] 📈 8.7 Billion requests processed.
 - [X] 🌎 A Feature Rich Free Geolocation/IP API
