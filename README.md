@@ -23,7 +23,7 @@ Looking to help contribute to open source projects? We are looking for the follo
 - [ ] **Perl**
 - [ ] **Haskell**
 - [ ] **Elixir**
-- [ ] **Dart**
+- [X] **Dart**
 - [ ] **Python** (Fixes and improvements to current library)
 - [ ] **Android/IOS/Windows SDK** 
 - [ ] **NextJS, Express, Other Frameworks** ⭐

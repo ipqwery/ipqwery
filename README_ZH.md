@@ -12,7 +12,7 @@
 - [ ] **Perl**
 - [ ] **Haskell**
 - [ ] **Elixir**
-- [ ] **Dart**
+- [X] **Dart**
 - [ ] **Python**（修复和改进当前库）
 - [ ] **Android/IOS/Windows SDK** 
 - [ ] **NextJS、Express 及其他框架** ⭐
