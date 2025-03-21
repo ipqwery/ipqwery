@@ -12,7 +12,7 @@
 - [ ] **Perl**
 - [ ] **Haskell**
 - [ ] **Elixir**
-- [ ] **Dart**
+- [X] **Dart**
 - [ ] **Python** (Исправления и улучшения текущей библиотеки)
 - [ ] **Android/IOS/Windows SDK** 
 - [ ] **NextJS, Express, Другие фреймворки** ⭐
