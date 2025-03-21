@@ -12,7 +12,7 @@ Cuenta oficial de [IPQuery](https://ipquery.io)
 - [ ] **Perl**
 - [ ] **Haskell**
 - [ ] **Elixir**
-- [ ] **Dart**
+- [X] **Dart**
 - [ ] **Python** (Correcciones y mejoras en la biblioteca actual)
 - [ ] **SDK para Android/IOS/Windows** 
 - [ ] **NextJS, Express, Otros frameworks** ⭐
