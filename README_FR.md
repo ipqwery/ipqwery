@@ -12,7 +12,7 @@ Vous souhaitez contribuer à des projets open source ? Nous recherchons les bibl
 - [ ] **Perl**
 - [ ] **Haskell**
 - [ ] **Elixir**
-- [ ] **Dart**
+- [X] **Dart**
 - [ ] **Python** (Corrections et améliorations de la bibliothèque actuelle)
 - [ ] **SDK Android/IOS/Windows** 
 - [ ] **NextJS, Express, Autres frameworks** ⭐
