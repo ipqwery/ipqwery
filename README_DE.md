@@ -12,7 +12,7 @@ Möchtest du zu Open-Source-Projekten beitragen? Wir suchen nach den folgenden B
 - [ ] **Perl**
 - [ ] **Haskell**
 - [ ] **Elixir**
-- [ ] **Dart**
+- [X] **Dart**
 - [ ] **Python** (Fehlerbehebungen und Verbesserungen der aktuellen Bibliothek)
 - [ ] **Android/IOS/Windows SDK** 
 - [ ] **NextJS, Express, Andere Frameworks** ⭐
