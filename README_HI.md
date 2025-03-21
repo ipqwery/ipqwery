@@ -12,7 +12,7 @@
 - [ ] **Perl**
 - [ ] **Haskell**
 - [ ] **Elixir**
-- [ ] **Dart**
+- [X] **Dart**
 - [ ] **Python** (मौजूदा लाइब्रेरी में सुधार और सुधार के लिए)
 - [ ] **Android/IOS/Windows SDK** 
 - [ ] **NextJS, Express, अन्य फ्रेमवर्क** ⭐
