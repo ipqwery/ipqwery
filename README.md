@@ -23,7 +23,6 @@ Looking to help contribute to open source projects? We are looking for the follo
 - [ ] **Perl**
 - [ ] **Haskell**
 - [ ] **Elixir**
-- [X] **Dart**
 - [ ] **Python** (Fixes and improvements to current library)
 - [ ] **Android/IOS/Windows SDK** 
 - [ ] **NextJS, Express, Other Frameworks** ⭐
@@ -33,3 +32,11 @@ Shoot us an email at contact@ipquery.io to get featured on the website.
 
 ## Found a Bug
 Open an issue [here](https://github.com/ipqwery/Bugs)
+
+```javascript
+fetch("https://api.ipquery.io/?format=json").then(
+      data=>console.log(data)
+).catch(
+     err => console.log(err)
+);
+```
