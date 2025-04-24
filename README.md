@@ -28,7 +28,7 @@ Looking to help contribute to open source projects? We are looking for the follo
 - [ ] **NextJS, Express, Other Frameworks** ⭐
 
 ## Built Something Cool With IPQuery?
-Shoot us an email at contact@ipquery.io to get featured on the website.
+Have you integrated the IPQuery API into your tool? Or did you make something cool that you'd like to share? Send us an email: contact@ipquery.io
 
 ## Found a Bug
 Open an issue [here](https://github.com/ipqwery/Bugs)
