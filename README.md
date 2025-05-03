@@ -39,4 +39,34 @@ fetch("https://api.ipquery.io/?format=json").then(
 ).catch(
      err => console.log(err)
 );
+
+```
+```json
+{
+  "ip": "103.126.161.54",
+  "isp": {
+    "asn": "AS135959",
+    "org": "Onebim Vietnam Limited Company",
+    "isp": "Onebim Vietnam Limited Company"
+  },
+  "location": {
+    "country": "Vietnam",
+    "country_code": "VN",
+    "city": "Quận Mười",
+    "state": "Ho Chi Minh",
+    "zipcode": "",
+    "latitude": 10.7888515998133,
+    "longitude": 106.659162009128,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "localtime": "2025-05-03T15:27:59"
+  },
+  "risk": {
+    "is_mobile": false,
+    "is_vpn": false,
+    "is_tor": true,
+    "is_proxy": false,
+    "is_datacenter": false,
+    "risk_score": 50
+  }
+}
 ```
