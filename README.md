@@ -13,7 +13,7 @@ Official Account For [IPQuery](https://ipquery.io)
 ---
 
 ## Stats
-- [X] 📈 8.7 Billion requests processed.
+- [X] 📈 35.2 Billion requests processed.
 - [X] 🌎 A Feature Rich Free Geolocation/IP API
 - [X] 🖥️ Proxy/VPN/Fraud Detection
 - [X] 🕒 ~8ms Response Time
