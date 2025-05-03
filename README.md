@@ -18,16 +18,7 @@ Official Account For [IPQuery](https://ipquery.io)
 - [X] 🖥️ Proxy/VPN/Fraud Detection
 - [X] 🕒 ~8ms Response Time
 
-## Want to Contribute/Help?
-Looking to help contribute to open source projects? We are looking for the following libraries:
-- [ ] **Perl**
-- [ ] **Haskell**
-- [ ] **Elixir**
-- [ ] **Python** (Fixes and improvements to current library)
-- [ ] **Android/IOS/Windows SDK** 
-- [ ] **NextJS, Express, Other Frameworks** ⭐
-
-## Built Something Cool With IPQuery?
+## Get Featured
 Have you integrated the IPQuery API into your tool? Or did you make something cool that you'd like to share? Send us an email: contact@ipquery.io
 
 ## Found a Bug
