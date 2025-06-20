@@ -22,7 +22,7 @@ Official Account For [IPQuery](https://ipquery.io)
 Have you integrated the IPQuery API into your tool? Or did you make something cool that you'd like to share? Send us an email: contact@ipquery.io
 
 ## Found a Bug
-Open an issue [here](https://github.com/ipqwery/Bugs)
+Open an issue [here](https://github.com/ipqwery/Bugs) or contact us support@ipquery.io
 
 ```javascript
 fetch("https://api.ipquery.io/?format=json").then(
